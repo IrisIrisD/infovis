@@ -1,0 +1,1426 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="905"
+   height="600"
+   version="1.1"
+   id="svg141"
+   sodipodi:docname="horas_comidas.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs141">
+    <marker
+       style="overflow:visible"
+       id="ArrowWideRounded"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide, rounded arrow"
+       markerWidth="1.5"
+       markerHeight="1.5"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path2" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="namedview141"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.2883333"
+     inkscape:cx="452.52265"
+     inkscape:cy="300.00001"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg141" />
+  <rect
+     width="905"
+     height="600"
+     x="0"
+     y="0"
+     fill="#FFFFFF"
+     id="background" />
+  <g
+     id="g134">
+    <clipPath
+       id="serieClipPath">
+      <rect
+         x="-50"
+         y="-15"
+         width="805"
+         height="600"
+         id="rect1" />
+    </clipPath>
+    <g
+       transform="translate(0,0)"
+       id="g133">
+      <g
+         transform="translate(50,15)"
+         clip-path="url(#serieClipPath)"
+         id="g132">
+        <g
+           id="axis">
+          <g
+             transform="translate(0,555)"
+             fill="none"
+             font-size="10"
+             font-family="sans-serif"
+             text-anchor="middle"
+             id="g10">
+            <path
+               class="domain"
+               stroke="currentColor"
+               d="M0,6V0H715V6"
+               id="path1" />
+            <g
+               class="tick"
+               opacity="1"
+               transform="translate(0,0)"
+               id="g1">
+              <line
+                 stroke="currentColor"
+                 y2="6"
+                 id="line1" />
+              <text
+                 fill="currentColor"
+                 y="9"
+                 dy="0.71em"
+                 id="text1">March</text>
+            </g>
+            <g
+               class="tick"
+               opacity="1"
+               transform="translate(89.375,0)"
+               id="g2">
+              <line
+                 stroke="currentColor"
+                 y2="6"
+                 id="line2" />
+              <text
+                 fill="currentColor"
+                 y="9"
+                 dy="0.71em"
+                 id="text2">Mar 08</text>
+            </g>
+            <g
+               class="tick"
+               opacity="1"
+               transform="translate(178.75,0)"
+               id="g3">
+              <line
+                 stroke="currentColor"
+                 y2="6"
+                 id="line3" />
+              <text
+                 fill="currentColor"
+                 y="9"
+                 dy="0.71em"
+                 id="text3">Mar 15</text>
+            </g>
+            <g
+               class="tick"
+               opacity="1"
+               transform="translate(268.125,0)"
+               id="g4">
+              <line
+                 stroke="currentColor"
+                 y2="6"
+                 id="line4" />
+              <text
+                 fill="currentColor"
+                 y="9"
+                 dy="0.71em"
+                 id="text4">Mar 22</text>
+            </g>
+            <g
+               class="tick"
+               opacity="1"
+               transform="translate(357.5,0)"
+               id="g5">
+              <line
+                 stroke="currentColor"
+                 y2="6"
+                 id="line5" />
+              <text
+                 fill="currentColor"
+                 y="9"
+                 dy="0.71em"
+                 id="text5">Mar 29</text>
+            </g>
+            <g
+               class="tick"
+               opacity="1"
+               transform="translate(446.875,0)"
+               id="g6">
+              <line
+                 stroke="currentColor"
+                 y2="6"
+                 id="line6" />
+              <text
+                 fill="currentColor"
+                 y="9"
+                 dy="0.71em"
+                 id="text6">Apr 05</text>
+            </g>
+            <g
+               class="tick"
+               opacity="1"
+               transform="translate(536.25,0)"
+               id="g7">
+              <line
+                 stroke="currentColor"
+                 y2="6"
+                 id="line7" />
+              <text
+                 fill="currentColor"
+                 y="9"
+                 dy="0.71em"
+                 id="text7">Apr 12</text>
+            </g>
+            <g
+               class="tick"
+               opacity="1"
+               transform="translate(625.625,0)"
+               id="g8">
+              <line
+                 stroke="currentColor"
+                 y2="6"
+                 id="line8" />
+              <text
+                 fill="currentColor"
+                 y="9"
+                 dy="0.71em"
+                 id="text8">Apr 19</text>
+            </g>
+            <g
+               class="tick"
+               opacity="1"
+               transform="translate(715,0)"
+               id="g9">
+              <line
+                 stroke="currentColor"
+                 y2="6"
+                 id="line9" />
+              <text
+                 fill="currentColor"
+                 y="9"
+                 dy="0.71em"
+                 id="text9">Apr 26</text>
+            </g>
+            <text
+               x="715"
+               dy="-5"
+               text-anchor="end"
+               style="font-family: Arial, sans-serif; font-size: 12px; fill: rgb(123, 123, 123); font-weight: bold;"
+               id="text10">fecha</text>
+          </g>
+          <g
+             transform="translate(0,0)"
+             fill="none"
+             font-size="10"
+             font-family="sans-serif"
+             text-anchor="end"
+             id="g20">
+            <path
+               class="domain"
+               stroke="currentColor"
+               d="M0,555V0"
+               id="path10" />
+            <g
+               class="tick"
+               opacity="1"
+               transform="translate(0,555)"
+               id="g11">
+              <line
+                 stroke="currentColor"
+                 x2="-6"
+                 id="line10" />
+              <text
+                 fill="currentColor"
+                 x="-9"
+                 dy="0.32em"
+                 id="text11">8</text>
+            </g>
+            <g
+               class="tick"
+               opacity="1"
+               transform="translate(0,485.625)"
+               id="g12">
+              <line
+                 stroke="currentColor"
+                 x2="-6"
+                 id="line11" />
+              <text
+                 fill="currentColor"
+                 x="-9"
+                 dy="0.32em"
+                 id="text12">10</text>
+            </g>
+            <g
+               class="tick"
+               opacity="1"
+               transform="translate(0,416.25)"
+               id="g13">
+              <line
+                 stroke="currentColor"
+                 x2="-6"
+                 id="line12" />
+              <text
+                 fill="currentColor"
+                 x="-9"
+                 dy="0.32em"
+                 id="text13">12</text>
+            </g>
+            <g
+               class="tick"
+               opacity="1"
+               transform="translate(0,346.875)"
+               id="g14">
+              <line
+                 stroke="currentColor"
+                 x2="-6"
+                 id="line13" />
+              <text
+                 fill="currentColor"
+                 x="-9"
+                 dy="0.32em"
+                 id="text14">14</text>
+            </g>
+            <g
+               class="tick"
+               opacity="1"
+               transform="translate(0,277.5)"
+               id="g15">
+              <line
+                 stroke="currentColor"
+                 x2="-6"
+                 id="line14" />
+              <text
+                 fill="currentColor"
+                 x="-9"
+                 dy="0.32em"
+                 id="text15">16</text>
+            </g>
+            <g
+               class="tick"
+               opacity="1"
+               transform="translate(0,208.125)"
+               id="g16">
+              <line
+                 stroke="currentColor"
+                 x2="-6"
+                 id="line15" />
+              <text
+                 fill="currentColor"
+                 x="-9"
+                 dy="0.32em"
+                 id="text16">18</text>
+            </g>
+            <g
+               class="tick"
+               opacity="1"
+               transform="translate(0,138.75)"
+               id="g17">
+              <line
+                 stroke="currentColor"
+                 x2="-6"
+                 id="line16" />
+              <text
+                 fill="currentColor"
+                 x="-9"
+                 dy="0.32em"
+                 id="text17">20</text>
+            </g>
+            <g
+               class="tick"
+               opacity="1"
+               transform="translate(0,69.375)"
+               id="g18">
+              <line
+                 stroke="currentColor"
+                 x2="-6"
+                 id="line17" />
+              <text
+                 fill="currentColor"
+                 x="-9"
+                 dy="0.32em"
+                 id="text18">22</text>
+            </g>
+            <g
+               class="tick"
+               opacity="1"
+               transform="translate(0,0)"
+               id="g19">
+              <line
+                 stroke="currentColor"
+                 x2="-6"
+                 id="line18" />
+              <text
+                 fill="currentColor"
+                 x="-9"
+                 dy="0.32em"
+                 id="text19">24</text>
+            </g>
+            <text
+               x="4"
+               text-anchor="start"
+               dominant-baseline="hanging"
+               style="font-family: Arial, sans-serif; font-size: 12px; fill: rgb(123, 123, 123); font-weight: bold;"
+               id="text20">hora</text>
+          </g>
+        </g>
+        <g
+           id="viz">
+          <g
+             id="Almuerzo">
+            <path
+               d="M12.767857142857142,312.1875C17.023809523809522,364.21875,21.279761904761905,416.25,25.535714285714285,416.25C29.791666666666664,416.25,34.047619047619044,381.5625,38.30357142857142,381.5625C42.5595238095238,381.5625,46.81547619047619,416.25,51.07142857142857,416.25C55.32738095238095,416.25,59.583333333333336,364.21875,63.839285714285715,346.875C68.09523809523809,329.53125,72.35119047619047,312.1875,76.60714285714285,312.1875C80.86309523809523,312.1875,85.11904761904762,312.1875,89.375,312.1875C93.63095238095238,312.1875,97.88690476190476,335.3125,102.14285714285714,346.875C106.39880952380952,358.4375,110.65476190476191,381.5625,114.91071428571429,381.5625C119.16666666666667,381.5625,123.42261904761905,277.5,127.67857142857143,277.5C131.9345238095238,277.5,136.19047619047618,393.125,140.44642857142856,416.25C144.70238095238093,439.375,148.95833333333331,450.9375,153.2142857142857,450.9375C157.47023809523807,450.9375,161.72619047619048,381.5625,165.98214285714286,381.5625C170.23809523809524,381.5625,174.49404761904762,381.5625,178.75,381.5625C183.00595238095238,381.5625,187.26190476190476,346.875,191.51785714285714,346.875C195.77380952380952,346.875,200.0297619047619,416.25,204.28571428571428,416.25C208.54166666666666,416.25,212.79761904761904,381.5625,217.05357142857142,381.5625C221.3095238095238,381.5625,225.5654761904762,416.25,229.82142857142858,416.25C259.61309523809524,416.25,289.4047619047619,416.25,319.1964285714286,416.25C323.45238095238096,416.25,327.70833333333337,393.125,331.9642857142857,381.5625C336.22023809523813,370,340.4761904761905,346.875,344.7321428571429,346.875C348.98809523809524,346.875,353.24404761904765,381.5625,357.5,381.5625C361.7559523809524,381.5625,366.01190476190476,346.875,370.26785714285717,346.875C374.5238095238095,346.875,378.7797619047619,416.25,383.0357142857143,416.25C387.2916666666667,416.25,391.54761904761904,346.875,395.80357142857144,346.875C417.08333333333337,346.875,438.36309523809524,346.875,459.64285714285717,346.875C463.8988095238095,346.875,468.1547619047619,381.5625,472.4107142857143,381.5625C476.6666666666667,381.5625,480.92261904761904,346.875,485.17857142857144,346.875C489.4345238095238,346.875,493.6904761904762,381.5625,497.94642857142856,381.5625C502.20238095238096,381.5625,506.4583333333333,381.5625,510.7142857142857,381.5625C514.9702380952381,381.5625,519.2261904761904,381.5625,523.4821428571428,381.5625C527.7380952380952,381.5625,531.9940476190476,381.5625,536.25,381.5625C540.5059523809524,381.5625,544.7619047619048,381.5625,549.0178571428572,381.5625C553.2738095238095,381.5625,557.5297619047619,416.25,561.7857142857142,416.25C566.0416666666666,416.25,570.297619047619,393.12500000000006,574.5535714285714,381.5625C578.8095238095239,370.00000000000006,583.0654761904761,346.875,587.3214285714286,346.875C591.577380952381,346.875,595.8333333333334,346.875,600.0892857142858,346.875C604.3452380952381,346.875,608.6011904761905,346.875,612.8571428571428,346.875C617.1130952380952,346.875,621.3690476190476,346.875,625.625,346.875C629.8809523809524,346.875,634.1369047619048,312.1875,638.3928571428572,312.1875C642.6488095238095,312.1875,646.9047619047619,381.5625,651.1607142857142,381.5625C655.4166666666666,381.5625,659.672619047619,381.5625,663.9285714285714,381.5625C668.1845238095239,381.5625,672.4404761904761,381.5625,676.6964285714286,381.5625C680.952380952381,381.5625,685.2083333333334,364.21875,689.4642857142858,346.875"
+               stroke="#1f77b4"
+               fill="none"
+               id="path20" />
+            <g
+               id="g63">
+              <circle
+                 class="dot"
+                 cx="12.767857142857142"
+                 cy="312.1875"
+                 r="2.5"
+                 fill="#1f77b4"
+                 id="circle20" />
+              <circle
+                 class="dot"
+                 cx="25.535714285714285"
+                 cy="416.25"
+                 r="2.5"
+                 fill="#1f77b4"
+                 id="circle21" />
+              <circle
+                 class="dot"
+                 cx="38.30357142857142"
+                 cy="381.5625"
+                 r="2.5"
+                 fill="#1f77b4"
+                 id="circle22" />
+              <circle
+                 class="dot"
+                 cx="51.07142857142857"
+                 cy="416.25"
+                 r="2.5"
+                 fill="#1f77b4"
+                 id="circle23" />
+              <circle
+                 class="dot"
+                 cx="63.839285714285715"
+                 cy="346.875"
+                 r="2.5"
+                 fill="#1f77b4"
+                 id="circle24" />
+              <circle
+                 class="dot"
+                 cx="76.60714285714285"
+                 cy="312.1875"
+                 r="2.5"
+                 fill="#1f77b4"
+                 id="circle25" />
+              <circle
+                 class="dot"
+                 cx="89.375"
+                 cy="312.1875"
+                 r="2.5"
+                 fill="#1f77b4"
+                 id="circle26" />
+              <circle
+                 class="dot"
+                 cx="102.14285714285714"
+                 cy="346.875"
+                 r="2.5"
+                 fill="#1f77b4"
+                 id="circle27" />
+              <circle
+                 class="dot"
+                 cx="114.91071428571429"
+                 cy="381.5625"
+                 r="2.5"
+                 fill="#1f77b4"
+                 id="circle28" />
+              <circle
+                 class="dot"
+                 cx="127.67857142857143"
+                 cy="277.5"
+                 r="2.5"
+                 fill="#1f77b4"
+                 id="circle29" />
+              <circle
+                 class="dot"
+                 cx="140.44642857142856"
+                 cy="416.25"
+                 r="2.5"
+                 fill="#1f77b4"
+                 id="circle30" />
+              <circle
+                 class="dot"
+                 cx="153.2142857142857"
+                 cy="450.9375"
+                 r="2.5"
+                 fill="#1f77b4"
+                 id="circle31" />
+              <circle
+                 class="dot"
+                 cx="165.98214285714286"
+                 cy="381.5625"
+                 r="2.5"
+                 fill="#1f77b4"
+                 id="circle32" />
+              <circle
+                 class="dot"
+                 cx="178.75"
+                 cy="381.5625"
+                 r="2.5"
+                 fill="#1f77b4"
+                 id="circle33" />
+              <circle
+                 class="dot"
+                 cx="191.51785714285714"
+                 cy="346.875"
+                 r="2.5"
+                 fill="#1f77b4"
+                 id="circle34" />
+              <circle
+                 class="dot"
+                 cx="204.28571428571428"
+                 cy="416.25"
+                 r="2.5"
+                 fill="#1f77b4"
+                 id="circle35" />
+              <circle
+                 class="dot"
+                 cx="217.05357142857142"
+                 cy="381.5625"
+                 r="2.5"
+                 fill="#1f77b4"
+                 id="circle36" />
+              <circle
+                 class="dot"
+                 cx="229.82142857142858"
+                 cy="416.25"
+                 r="2.5"
+                 fill="#1f77b4"
+                 id="circle37" />
+              <circle
+                 class="dot"
+                 cx="319.1964285714286"
+                 cy="416.25"
+                 r="2.5"
+                 fill="#1f77b4"
+                 id="circle38" />
+              <circle
+                 class="dot"
+                 cx="331.9642857142857"
+                 cy="381.5625"
+                 r="2.5"
+                 fill="#1f77b4"
+                 id="circle39" />
+              <circle
+                 class="dot"
+                 cx="344.7321428571429"
+                 cy="346.875"
+                 r="2.5"
+                 fill="#1f77b4"
+                 id="circle40" />
+              <circle
+                 class="dot"
+                 cx="357.5"
+                 cy="381.5625"
+                 r="2.5"
+                 fill="#1f77b4"
+                 id="circle41" />
+              <circle
+                 class="dot"
+                 cx="370.26785714285717"
+                 cy="346.875"
+                 r="2.5"
+                 fill="#1f77b4"
+                 id="circle42" />
+              <circle
+                 class="dot"
+                 cx="383.0357142857143"
+                 cy="416.25"
+                 r="2.5"
+                 fill="#1f77b4"
+                 id="circle43" />
+              <circle
+                 class="dot"
+                 cx="395.80357142857144"
+                 cy="346.875"
+                 r="2.5"
+                 fill="#1f77b4"
+                 id="circle44" />
+              <circle
+                 class="dot"
+                 cx="459.64285714285717"
+                 cy="346.875"
+                 r="2.5"
+                 fill="#1f77b4"
+                 id="circle45" />
+              <circle
+                 class="dot"
+                 cx="472.4107142857143"
+                 cy="381.5625"
+                 r="2.5"
+                 fill="#1f77b4"
+                 id="circle46" />
+              <circle
+                 class="dot"
+                 cx="485.17857142857144"
+                 cy="346.875"
+                 r="2.5"
+                 fill="#1f77b4"
+                 id="circle47" />
+              <circle
+                 class="dot"
+                 cx="497.94642857142856"
+                 cy="381.5625"
+                 r="2.5"
+                 fill="#1f77b4"
+                 id="circle48" />
+              <circle
+                 class="dot"
+                 cx="510.7142857142857"
+                 cy="381.5625"
+                 r="2.5"
+                 fill="#1f77b4"
+                 id="circle49" />
+              <circle
+                 class="dot"
+                 cx="523.4821428571428"
+                 cy="381.5625"
+                 r="2.5"
+                 fill="#1f77b4"
+                 id="circle50" />
+              <circle
+                 class="dot"
+                 cx="536.25"
+                 cy="381.5625"
+                 r="2.5"
+                 fill="#1f77b4"
+                 id="circle51" />
+              <circle
+                 class="dot"
+                 cx="549.0178571428572"
+                 cy="381.5625"
+                 r="2.5"
+                 fill="#1f77b4"
+                 id="circle52" />
+              <circle
+                 class="dot"
+                 cx="561.7857142857142"
+                 cy="416.25"
+                 r="2.5"
+                 fill="#1f77b4"
+                 id="circle53" />
+              <circle
+                 class="dot"
+                 cx="574.5535714285714"
+                 cy="381.5625"
+                 r="2.5"
+                 fill="#1f77b4"
+                 id="circle54" />
+              <circle
+                 class="dot"
+                 cx="587.3214285714286"
+                 cy="346.875"
+                 r="2.5"
+                 fill="#1f77b4"
+                 id="circle55" />
+              <circle
+                 class="dot"
+                 cx="600.0892857142858"
+                 cy="346.875"
+                 r="2.5"
+                 fill="#1f77b4"
+                 id="circle56" />
+              <circle
+                 class="dot"
+                 cx="612.8571428571428"
+                 cy="346.875"
+                 r="2.5"
+                 fill="#1f77b4"
+                 id="circle57" />
+              <circle
+                 class="dot"
+                 cx="625.625"
+                 cy="346.875"
+                 r="2.5"
+                 fill="#1f77b4"
+                 id="circle58" />
+              <circle
+                 class="dot"
+                 cx="638.3928571428572"
+                 cy="312.1875"
+                 r="2.5"
+                 fill="#1f77b4"
+                 id="circle59" />
+              <circle
+                 class="dot"
+                 cx="651.1607142857142"
+                 cy="381.5625"
+                 r="2.5"
+                 fill="#1f77b4"
+                 id="circle60" />
+              <circle
+                 class="dot"
+                 cx="663.9285714285714"
+                 cy="381.5625"
+                 r="2.5"
+                 fill="#1f77b4"
+                 id="circle61" />
+              <circle
+                 class="dot"
+                 cx="676.6964285714286"
+                 cy="381.5625"
+                 r="2.5"
+                 fill="#1f77b4"
+                 id="circle62" />
+              <circle
+                 class="dot"
+                 cx="689.4642857142858"
+                 cy="346.875"
+                 r="2.5"
+                 fill="#1f77b4"
+                 id="circle63" />
+            </g>
+            <text
+               font-family="sans-serif"
+               font-size="10"
+               class="labels"
+               x="689.4642857142858"
+               y="346.875"
+               dx="5"
+               dy="4"
+               text-anchor="start"
+               id="text63">Almuerzo</text>
+          </g>
+          <g
+             id="Cena">
+            <path
+               d="M12.767857142857142,69.375C17.023809523809522,104.0625,21.279761904761905,138.75,25.535714285714285,138.75C29.791666666666664,138.75,34.047619047619044,69.375,38.30357142857142,69.375C42.5595238095238,69.375,46.81547619047619,173.4375,51.07142857142857,173.4375C55.32738095238095,173.4375,59.583333333333336,69.375,63.839285714285715,69.375C68.09523809523809,69.375,72.35119047619047,138.75,76.60714285714285,138.75C80.86309523809523,138.75,85.11904761904762,86.71875,89.375,69.375C93.63095238095238,52.031250000000014,97.88690476190476,34.6875,102.14285714285714,34.6875C106.39880952380952,34.6875,110.65476190476191,138.75,114.91071428571429,138.75C119.16666666666667,138.75,123.42261904761905,138.75,127.67857142857143,138.75C131.9345238095238,138.75,136.19047619047618,138.75,140.44642857142856,138.75C144.70238095238093,138.75,148.95833333333331,138.75,153.2142857142857,138.75C157.47023809523807,138.75,161.72619047619048,173.4375,165.98214285714286,173.4375C170.23809523809524,173.4375,174.49404761904762,127.1875,178.75,104.0625C183.00595238095238,80.9375,187.26190476190476,34.6875,191.51785714285714,34.6875C195.77380952380952,34.6875,200.0297619047619,69.375,204.28571428571428,69.375C208.54166666666666,69.375,212.79761904761904,34.6875,217.05357142857142,34.6875C251.10119047619048,34.6875,285.1488095238095,104.0625,319.1964285714286,104.0625C323.45238095238096,104.0625,327.70833333333337,34.6875,331.9642857142857,34.6875C336.22023809523813,34.6875,340.4761904761905,34.6875,344.7321428571429,34.6875C348.98809523809524,34.6875,353.24404761904765,104.0625,357.5,104.0625C361.7559523809524,104.0625,366.01190476190476,34.6875,370.26785714285717,34.6875C374.5238095238095,34.6875,378.7797619047619,138.75,383.0357142857143,138.75C408.57142857142856,138.75,434.1071428571429,69.375,459.64285714285717,69.375C463.8988095238095,69.375,468.1547619047619,104.0625,472.4107142857143,104.0625C480.92261904761904,104.0625,489.4345238095238,104.0625,497.94642857142856,104.0625C502.20238095238096,104.0625,506.4583333333333,69.375,510.7142857142857,69.375C514.9702380952381,69.375,519.2261904761904,104.0625,523.4821428571428,104.0625C531.9940476190476,104.0625,540.5059523809524,69.375,549.0178571428572,69.375C553.2738095238095,69.375,557.5297619047619,138.75,561.7857142857142,138.75C570.297619047619,138.75,578.8095238095237,138.75,587.3214285714286,138.75C591.577380952381,138.75,595.8333333333334,104.0625,600.0892857142858,104.0625C604.3452380952381,104.0625,608.6011904761905,138.75,612.8571428571428,138.75C617.1130952380952,138.75,621.3690476190476,115.625,625.625,104.0625C629.8809523809524,92.5,634.1369047619048,69.375,638.3928571428572,69.375C642.6488095238095,69.375,646.9047619047619,92.5000000000001,651.1607142857142,104.0625C655.4166666666666,115.6250000000001,659.672619047619,138.75,663.9285714285714,138.75C668.1845238095239,138.75,672.4404761904761,138.75,676.6964285714286,138.75C680.952380952381,138.75,685.2083333333334,34.6875,689.4642857142858,34.6875C693.7202380952381,34.6875,697.9761904761905,52.03125,702.2321428571428,69.375"
+               stroke="#ff7f0e"
+               fill="none"
+               id="path63" />
+            <g
+               id="g103">
+              <circle
+                 class="dot"
+                 cx="12.767857142857142"
+                 cy="69.375"
+                 r="2.5"
+                 fill="#ff7f0e"
+                 id="circle64" />
+              <circle
+                 class="dot"
+                 cx="25.535714285714285"
+                 cy="138.75"
+                 r="2.5"
+                 fill="#ff7f0e"
+                 id="circle65" />
+              <circle
+                 class="dot"
+                 cx="38.30357142857142"
+                 cy="69.375"
+                 r="2.5"
+                 fill="#ff7f0e"
+                 id="circle66" />
+              <circle
+                 class="dot"
+                 cx="51.07142857142857"
+                 cy="173.4375"
+                 r="2.5"
+                 fill="#ff7f0e"
+                 id="circle67" />
+              <circle
+                 class="dot"
+                 cx="63.839285714285715"
+                 cy="69.375"
+                 r="2.5"
+                 fill="#ff7f0e"
+                 id="circle68" />
+              <circle
+                 class="dot"
+                 cx="76.60714285714285"
+                 cy="138.75"
+                 r="2.5"
+                 fill="#ff7f0e"
+                 id="circle69" />
+              <circle
+                 class="dot"
+                 cx="89.375"
+                 cy="69.375"
+                 r="2.5"
+                 fill="#ff7f0e"
+                 id="circle70" />
+              <circle
+                 class="dot"
+                 cx="102.14285714285714"
+                 cy="34.6875"
+                 r="2.5"
+                 fill="#ff7f0e"
+                 id="circle71" />
+              <circle
+                 class="dot"
+                 cx="114.91071428571429"
+                 cy="138.75"
+                 r="2.5"
+                 fill="#ff7f0e"
+                 id="circle72" />
+              <circle
+                 class="dot"
+                 cx="127.67857142857143"
+                 cy="138.75"
+                 r="2.5"
+                 fill="#ff7f0e"
+                 id="circle73" />
+              <circle
+                 class="dot"
+                 cx="140.44642857142856"
+                 cy="138.75"
+                 r="2.5"
+                 fill="#ff7f0e"
+                 id="circle74" />
+              <circle
+                 class="dot"
+                 cx="153.2142857142857"
+                 cy="138.75"
+                 r="2.5"
+                 fill="#ff7f0e"
+                 id="circle75" />
+              <circle
+                 class="dot"
+                 cx="165.98214285714286"
+                 cy="173.4375"
+                 r="2.5"
+                 fill="#ff7f0e"
+                 id="circle76" />
+              <circle
+                 class="dot"
+                 cx="178.75"
+                 cy="104.0625"
+                 r="2.5"
+                 fill="#ff7f0e"
+                 id="circle77" />
+              <circle
+                 class="dot"
+                 cx="191.51785714285714"
+                 cy="34.6875"
+                 r="2.5"
+                 fill="#ff7f0e"
+                 id="circle78" />
+              <circle
+                 class="dot"
+                 cx="204.28571428571428"
+                 cy="69.375"
+                 r="2.5"
+                 fill="#ff7f0e"
+                 id="circle79" />
+              <circle
+                 class="dot"
+                 cx="217.05357142857142"
+                 cy="34.6875"
+                 r="2.5"
+                 fill="#ff7f0e"
+                 id="circle80" />
+              <circle
+                 class="dot"
+                 cx="319.1964285714286"
+                 cy="104.0625"
+                 r="2.5"
+                 fill="#ff7f0e"
+                 id="circle81" />
+              <circle
+                 class="dot"
+                 cx="331.9642857142857"
+                 cy="34.6875"
+                 r="2.5"
+                 fill="#ff7f0e"
+                 id="circle82" />
+              <circle
+                 class="dot"
+                 cx="344.7321428571429"
+                 cy="34.6875"
+                 r="2.5"
+                 fill="#ff7f0e"
+                 id="circle83" />
+              <circle
+                 class="dot"
+                 cx="357.5"
+                 cy="104.0625"
+                 r="2.5"
+                 fill="#ff7f0e"
+                 id="circle84" />
+              <circle
+                 class="dot"
+                 cx="370.26785714285717"
+                 cy="34.6875"
+                 r="2.5"
+                 fill="#ff7f0e"
+                 id="circle85" />
+              <circle
+                 class="dot"
+                 cx="383.0357142857143"
+                 cy="138.75"
+                 r="2.5"
+                 fill="#ff7f0e"
+                 id="circle86" />
+              <circle
+                 class="dot"
+                 cx="459.64285714285717"
+                 cy="69.375"
+                 r="2.5"
+                 fill="#ff7f0e"
+                 id="circle87" />
+              <circle
+                 class="dot"
+                 cx="472.4107142857143"
+                 cy="104.0625"
+                 r="2.5"
+                 fill="#ff7f0e"
+                 id="circle88" />
+              <circle
+                 class="dot"
+                 cx="497.94642857142856"
+                 cy="104.0625"
+                 r="2.5"
+                 fill="#ff7f0e"
+                 id="circle89" />
+              <circle
+                 class="dot"
+                 cx="510.7142857142857"
+                 cy="69.375"
+                 r="2.5"
+                 fill="#ff7f0e"
+                 id="circle90" />
+              <circle
+                 class="dot"
+                 cx="523.4821428571428"
+                 cy="104.0625"
+                 r="2.5"
+                 fill="#ff7f0e"
+                 id="circle91" />
+              <circle
+                 class="dot"
+                 cx="549.0178571428572"
+                 cy="69.375"
+                 r="2.5"
+                 fill="#ff7f0e"
+                 id="circle92" />
+              <circle
+                 class="dot"
+                 cx="561.7857142857142"
+                 cy="138.75"
+                 r="2.5"
+                 fill="#ff7f0e"
+                 id="circle93" />
+              <circle
+                 class="dot"
+                 cx="587.3214285714286"
+                 cy="138.75"
+                 r="2.5"
+                 fill="#ff7f0e"
+                 id="circle94" />
+              <circle
+                 class="dot"
+                 cx="600.0892857142858"
+                 cy="104.0625"
+                 r="2.5"
+                 fill="#ff7f0e"
+                 id="circle95" />
+              <circle
+                 class="dot"
+                 cx="612.8571428571428"
+                 cy="138.75"
+                 r="2.5"
+                 fill="#ff7f0e"
+                 id="circle96" />
+              <circle
+                 class="dot"
+                 cx="625.625"
+                 cy="104.0625"
+                 r="2.5"
+                 fill="#ff7f0e"
+                 id="circle97" />
+              <circle
+                 class="dot"
+                 cx="638.3928571428572"
+                 cy="69.375"
+                 r="2.5"
+                 fill="#ff7f0e"
+                 id="circle98" />
+              <circle
+                 class="dot"
+                 cx="651.1607142857142"
+                 cy="104.0625"
+                 r="2.5"
+                 fill="#ff7f0e"
+                 id="circle99" />
+              <circle
+                 class="dot"
+                 cx="663.9285714285714"
+                 cy="138.75"
+                 r="2.5"
+                 fill="#ff7f0e"
+                 id="circle100" />
+              <circle
+                 class="dot"
+                 cx="676.6964285714286"
+                 cy="138.75"
+                 r="2.5"
+                 fill="#ff7f0e"
+                 id="circle101" />
+              <circle
+                 class="dot"
+                 cx="689.4642857142858"
+                 cy="34.6875"
+                 r="2.5"
+                 fill="#ff7f0e"
+                 id="circle102" />
+              <circle
+                 class="dot"
+                 cx="702.2321428571428"
+                 cy="69.375"
+                 r="2.5"
+                 fill="#ff7f0e"
+                 id="circle103" />
+            </g>
+            <text
+               font-family="sans-serif"
+               font-size="10"
+               class="labels"
+               x="702.2321428571428"
+               y="69.375"
+               dx="5"
+               dy="4"
+               text-anchor="start"
+               id="text103">Cena</text>
+          </g>
+          <g
+             id="Desayuno">
+            <path
+               d="M38.30357142857142,520.3125C46.81547619047619,508.75,55.32738095238095,497.1875,63.839285714285715,485.625C72.35119047619048,474.0625,80.86309523809524,450.9375,89.375,450.9375C102.14285714285714,450.9375,114.91071428571429,516.2316176470588,127.67857142857143,520.3125C200.02976190476193,543.4375,272.3809523809524,555,344.7321428571429,555C348.98809523809524,555,353.24404761904765,450.9375,357.5,450.9375C429.8511904761905,450.9375,502.20238095238096,520.3125,574.5535714285714,520.3125C583.0654761904763,520.3125,591.577380952381,485.625,600.0892857142858,485.625C625.625,485.625,651.1607142857143,485.625,676.6964285714286,485.625"
+               stroke="#2ca02c"
+               fill="none"
+               id="path103" />
+            <g
+               id="g112">
+              <circle
+                 class="dot"
+                 cx="38.30357142857142"
+                 cy="520.3125"
+                 r="2.5"
+                 fill="#2ca02c"
+                 id="circle104" />
+              <circle
+                 class="dot"
+                 cx="63.839285714285715"
+                 cy="485.625"
+                 r="2.5"
+                 fill="#2ca02c"
+                 id="circle105" />
+              <circle
+                 class="dot"
+                 cx="89.375"
+                 cy="450.9375"
+                 r="2.5"
+                 fill="#2ca02c"
+                 id="circle106" />
+              <circle
+                 class="dot"
+                 cx="127.67857142857143"
+                 cy="520.3125"
+                 r="2.5"
+                 fill="#2ca02c"
+                 id="circle107" />
+              <circle
+                 class="dot"
+                 cx="344.7321428571429"
+                 cy="555"
+                 r="2.5"
+                 fill="#2ca02c"
+                 id="circle108" />
+              <circle
+                 class="dot"
+                 cx="357.5"
+                 cy="450.9375"
+                 r="2.5"
+                 fill="#2ca02c"
+                 id="circle109" />
+              <circle
+                 class="dot"
+                 cx="574.5535714285714"
+                 cy="520.3125"
+                 r="2.5"
+                 fill="#2ca02c"
+                 id="circle110" />
+              <circle
+                 class="dot"
+                 cx="600.0892857142858"
+                 cy="485.625"
+                 r="2.5"
+                 fill="#2ca02c"
+                 id="circle111" />
+              <circle
+                 class="dot"
+                 cx="676.6964285714286"
+                 cy="485.625"
+                 r="2.5"
+                 fill="#2ca02c"
+                 id="circle112" />
+            </g>
+            <text
+               font-family="sans-serif"
+               font-size="10"
+               class="labels"
+               x="676.6964285714286"
+               y="485.625"
+               dx="5"
+               dy="4"
+               text-anchor="start"
+               id="text112">Desayuno</text>
+          </g>
+          <g
+             id="Merienda">
+            <path
+               d="M51.07142857142857,277.5C68.09523809523809,260.15625,85.11904761904762,242.8125,102.14285714285714,173.4375C106.39880952380952,156.09375,110.65476190476191,104.0625,114.91071428571429,104.0625C123.42261904761905,104.0625,131.9345238095238,277.5,140.44642857142856,277.5C148.95833333333331,277.5,157.4702380952381,277.5,165.98214285714286,277.5C170.23809523809524,277.5,174.49404761904762,277.5,178.75,277.5C183.00595238095238,277.5,187.26190476190476,185,191.51785714285714,173.4375C200.0297619047619,150.3125,208.54166666666666,138.75,217.05357142857142,138.75C221.3095238095238,138.75,225.5654761904762,277.5,229.82142857142858,277.5C263.86904761904765,277.5,297.9166666666667,208.125,331.9642857142857,208.125C336.22023809523813,208.125,340.4761904761905,208.125,344.7321428571429,208.125C395.80357142857144,208.125,446.875,277.5,497.94642857142856,277.5C514.9702380952381,277.5,531.9940476190477,242.8125,549.0178571428572,242.8125C553.2738095238095,242.8125,557.5297619047619,277.5,561.7857142857142,277.5C566.0416666666666,277.5,570.297619047619,208.125,574.5535714285714,208.125C587.3214285714286,208.125,600.0892857142857,242.8125,612.8571428571428,242.8125C621.3690476190476,242.8125,629.8809523809524,173.4375,638.3928571428572,173.4375C642.6488095238095,173.4375,646.9047619047619,242.8125,651.1607142857142,242.8125C668.1845238095237,242.8125,685.2083333333333,208.125,702.2321428571428,173.4375"
+               stroke="#d62728"
+               fill="none"
+               id="path112" />
+            <g
+               id="g131">
+              <circle
+                 class="dot"
+                 cx="51.07142857142857"
+                 cy="277.5"
+                 r="2.5"
+                 fill="#d62728"
+                 id="circle113" />
+              <circle
+                 class="dot"
+                 cx="102.14285714285714"
+                 cy="173.4375"
+                 r="2.5"
+                 fill="#d62728"
+                 id="circle114" />
+              <circle
+                 class="dot"
+                 cx="114.91071428571429"
+                 cy="104.0625"
+                 r="2.5"
+                 fill="#d62728"
+                 id="circle115" />
+              <circle
+                 class="dot"
+                 cx="140.44642857142856"
+                 cy="277.5"
+                 r="2.5"
+                 fill="#d62728"
+                 id="circle116" />
+              <circle
+                 class="dot"
+                 cx="165.98214285714286"
+                 cy="277.5"
+                 r="2.5"
+                 fill="#d62728"
+                 id="circle117" />
+              <circle
+                 class="dot"
+                 cx="178.75"
+                 cy="277.5"
+                 r="2.5"
+                 fill="#d62728"
+                 id="circle118" />
+              <circle
+                 class="dot"
+                 cx="191.51785714285714"
+                 cy="173.4375"
+                 r="2.5"
+                 fill="#d62728"
+                 id="circle119" />
+              <circle
+                 class="dot"
+                 cx="217.05357142857142"
+                 cy="138.75"
+                 r="2.5"
+                 fill="#d62728"
+                 id="circle120" />
+              <circle
+                 class="dot"
+                 cx="229.82142857142858"
+                 cy="277.5"
+                 r="2.5"
+                 fill="#d62728"
+                 id="circle121" />
+              <circle
+                 class="dot"
+                 cx="331.9642857142857"
+                 cy="208.125"
+                 r="2.5"
+                 fill="#d62728"
+                 id="circle122" />
+              <circle
+                 class="dot"
+                 cx="344.7321428571429"
+                 cy="208.125"
+                 r="2.5"
+                 fill="#d62728"
+                 id="circle123" />
+              <circle
+                 class="dot"
+                 cx="497.94642857142856"
+                 cy="277.5"
+                 r="2.5"
+                 fill="#d62728"
+                 id="circle124" />
+              <circle
+                 class="dot"
+                 cx="549.0178571428572"
+                 cy="242.8125"
+                 r="2.5"
+                 fill="#d62728"
+                 id="circle125" />
+              <circle
+                 class="dot"
+                 cx="561.7857142857142"
+                 cy="277.5"
+                 r="2.5"
+                 fill="#d62728"
+                 id="circle126" />
+              <circle
+                 class="dot"
+                 cx="574.5535714285714"
+                 cy="208.125"
+                 r="2.5"
+                 fill="#d62728"
+                 id="circle127" />
+              <circle
+                 class="dot"
+                 cx="612.8571428571428"
+                 cy="242.8125"
+                 r="2.5"
+                 fill="#d62728"
+                 id="circle128" />
+              <circle
+                 class="dot"
+                 cx="638.3928571428572"
+                 cy="173.4375"
+                 r="2.5"
+                 fill="#d62728"
+                 id="circle129" />
+              <circle
+                 class="dot"
+                 cx="651.1607142857142"
+                 cy="242.8125"
+                 r="2.5"
+                 fill="#d62728"
+                 id="circle130" />
+              <circle
+                 class="dot"
+                 cx="702.2321428571428"
+                 cy="173.4375"
+                 r="2.5"
+                 fill="#d62728"
+                 id="circle131" />
+            </g>
+            <text
+               font-family="sans-serif"
+               font-size="10"
+               class="labels"
+               x="702.2321428571428"
+               y="173.4375"
+               dx="5"
+               dy="4"
+               text-anchor="start"
+               id="text131">Merienda</text>
+          </g>
+        </g>
+      </g>
+      <text
+         y="4"
+         x="4"
+         style="font-family: Arial, sans-serif; font-size: 12px; fill: black; font-weight: bold; dominant-baseline: hanging;"
+         id="text132" />
+    </g>
+    <g
+       id="grid">
+      <rect
+         x="0"
+         y="0"
+         width="805"
+         height="600"
+         fill="none"
+         stroke="#ccc"
+         id="rect133" />
+    </g>
+  </g>
+  <g
+     id="legend"
+     transform="translate(805,15)">
+    <g
+       transform="translate(5,0)"
+       id="g141">
+      <g
+         class="legendColor"
+         transform="translate(0,0)"
+         id="g140">
+        <g
+           class="legendCells"
+           transform="translate(0,31.599998474121094)"
+           id="g139">
+          <g
+             class="cell"
+             transform="translate(0, 0)"
+             id="g135">
+            <rect
+               class="swatch"
+               height="15"
+               width="15"
+               style="fill: rgb(31, 119, 180);"
+               id="rect134" />
+            <text
+               class="label"
+               transform="translate( 20, 12.5)"
+               font-family="&quot;Arial&quot;, sans-serif"
+               font-size="10px"
+               id="text134"><tspan
+                 x="0"
+                 dy="0em"
+                 id="tspan134">Almuerzo</tspan></text>
+          </g>
+          <g
+             class="cell"
+             transform="translate(0, 21)"
+             id="g136">
+            <rect
+               class="swatch"
+               height="15"
+               width="15"
+               style="fill: rgb(255, 127, 14);"
+               id="rect135" />
+            <text
+               class="label"
+               transform="translate( 20, 12.5)"
+               font-family="&quot;Arial&quot;, sans-serif"
+               font-size="10px"
+               id="text135"><tspan
+                 x="0"
+                 dy="0em"
+                 id="tspan135">Cena</tspan></text>
+          </g>
+          <g
+             class="cell"
+             transform="translate(0, 42)"
+             id="g137">
+            <rect
+               class="swatch"
+               height="15"
+               width="15"
+               style="fill: rgb(44, 160, 44);"
+               id="rect136" />
+            <text
+               class="label"
+               transform="translate( 20, 12.5)"
+               font-family="&quot;Arial&quot;, sans-serif"
+               font-size="10px"
+               id="text136"><tspan
+                 x="0"
+                 dy="0em"
+                 id="tspan136">Desayuno</tspan></text>
+          </g>
+          <g
+             class="cell"
+             transform="translate(0, 63)"
+             id="g138">
+            <rect
+               class="swatch"
+               height="15"
+               width="15"
+               style="fill: rgb(214, 39, 40);"
+               id="rect137" />
+            <text
+               class="label"
+               transform="translate( 20, 12.5)"
+               font-family="&quot;Arial&quot;, sans-serif"
+               font-size="10px"
+               id="text137"><tspan
+                 x="0"
+                 dy="0em"
+                 id="tspan137">Merienda</tspan></text>
+          </g>
+        </g>
+        <text
+           class="legendTitle"
+           font-family="&quot;Arial&quot;, sans-serif"
+           font-size="12px"
+           font-weight="bold"
+           id="text140"><tspan
+             x="0"
+             dy="0em"
+             id="tspan139">tipo de</tspan><tspan
+             x="0"
+             dy="1.2em"
+             id="tspan140">comida</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path
+     style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.12859;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#ArrowWideRounded);marker-end:url(#ArrowWideRounded)"
+     d="m 281.81916,402.88746 86.03827,-1.6352"
+     id="path143"
+     inkscape:connector-type="polyline"
+     inkscape:connector-curvature="0" />
+  <text
+     xml:space="preserve"
+     style="font-size:12.2749px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:1.79478;stroke-linejoin:miter;stroke-dasharray:none"
+     x="269.13989"
+     y="400.32022"
+     id="text144"
+     transform="scale(1.0295846,0.97126551)"><tspan
+       sodipodi:role="line"
+       id="tspan144"
+       x="269.13989"
+       y="400.32022"
+       style="stroke-width:1.79478;stroke-dasharray:none">viaje en Patagonia</tspan></text>
+  <path
+     style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.02896;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#ArrowWideRounded);marker-end:url(#ArrowWideRounded)"
+     d="m 444.87376,348.61503 66.52673,-1.75788"
+     id="path145"
+     inkscape:connector-type="polyline"
+     inkscape:connector-curvature="0" />
+  <text
+     xml:space="preserve"
+     style="font-size:11.0026px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:1.55869;stroke-linejoin:miter;stroke-dasharray:none"
+     x="449.6188"
+     y="338.54016"
+     id="text145"
+     transform="scale(0.99092129,1.0091619)"><tspan
+       sodipodi:role="line"
+       id="tspan145"
+       x="449.6188"
+       y="338.54016"
+       style="stroke-width:1.55869">viaje a Iguazu</tspan></text>
+</svg>
